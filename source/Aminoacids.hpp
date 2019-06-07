@@ -1,7 +1,10 @@
 #ifndef _AMINOACIDS_H
 #define _AMINOACIDS_H
 
+#include <iostream>
 #include <map>
+#include <string>
+
 /*
  |----------------|-----|-----|-----|
  |  Amino Acid    | 3LC | 1LC | AB  |
@@ -40,6 +43,9 @@ public:
   char getAmino(char);
   size_t getSize();
 
+  void showAminoList();
+
+  std::string convertSequence(std::string);
 };
 
 
