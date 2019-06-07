@@ -4,25 +4,25 @@ The spatial structure of proteins determines many of its essential biological fu
 
 The 20 Naturally occurring Amino Acids and it's sequence is reported in the table below.
 
-|  Amino Acid    | 3LC | 1LC | AB  |
-|----------------|-----|-----|-----|
-|  Alanine       | Ala |  A  |  A  |
-|  Arginine      | Arg |  R  |  B  |
-|  Asparagine    | Asn |  N  |  B  |
-|  Aspartic acid | Asp |  D  |  B  |
-|  Cysteine      | Cys |  C  |  A  |
-|  Glutamic acid | Glu |  E  |  B  |
-|  Glutamine     | Gln |  Q  |  B  |
-|  Glycine       | Gly |  G  |  A  |
-|  Histidine     | His |  H  |  B  |
-|  Isoleucine    | Ile |  I  |  A  |
-|  Leucine       | Leu |  L  |  A  |
-|  Lysine        | Lys |  K  |  B  |
-|  Methionine    | Met |  M  |  A  |
-|  Phenylalanine | Phe |  F  |  B  |
-|  Proline       | Pro |  P  |  A  |
-|  Serine        | Ser |  S  |  B  |
-|  Threonine     | Thr |  T  |  B  |
-|  Tryptophan    | Trp |  W  |  B  |
-|  Tyrosine      | Tyr |  Y  |  B  |
-|  Valine        | Val |  V  |  A  |
+|  Amino Acid Name | 3 Letter Code   | 1 Letter Code   | AB Classification    |
+|:-----------------|:---------------:|:---------------:|:--------------------:|
+|  Alanine         | Ala             |  A              |  A                   |
+|  Arginine        | Arg             |  R              |  B                   |
+|  Asparagine      | Asn             |  N              |  B                   |
+|  Aspartic acid   | Asp             |  D              |  B                   |
+|  Cysteine        | Cys             |  C              |  A                   |
+|  Glutamic acid   | Glu             |  E              |  B                   |
+|  Glutamine       | Gln             |  Q              |  B                   |
+|  Glycine         | Gly             |  G              |  A                   |
+|  Histidine       | His             |  H              |  B                   |
+|  Isoleucine      | Ile             |  I              |  A                   |
+|  Leucine         | Leu             |  L              |  A                   |
+|  Lysine          | Lys             |  K              |  B                   |
+|  Methionine      | Met             |  M              |  A                   |
+|  Phenylalanine   | Phe             |  F              |  B                   |
+|  Proline         | Pro             |  P              |  A                   |
+|  Serine          | Ser             |  S              |  B                   |
+|  Threonine       | Thr             |  T              |  B                   |
+|  Tryptophan      | Trp             |  W              |  B                   |
+|  Tyrosine        | Tyr             |  Y              |  B                   |
+|  Valine          | Val             |  V              |  A                   |
