@@ -15,6 +15,7 @@ int main(int argc, char * argv[]){
     AminoAcid * a = new AminoAcid();
 
     T = a->convertSequence(T);
+    std::cout << "Sequence Length: " << T.length() << std::endl;
     std::cout << T << std::endl;
   }
 

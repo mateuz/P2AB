@@ -30,6 +30,7 @@
  |  Tyrosine      | Tyr |  Y  |  B  |
  |  Valine        | Val |  V  |  A  |
  |----------------|-----|-----|-----|
+
 */
 
 class AminoAcid {
